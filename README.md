@@ -1,5 +1,6 @@
 # Home-Automation
 
+#### Home Automation System with various sensors such as motion, gas leakage, sound, etc. for security and appliances control.
 
 
 Home automation system built on Arduino Uno R3 microcontroller along with Light sensor, Motion detector, Temperature sensor, Gas sensor, Sound sensor, Buzzer, LED lights, Crystal Display and Arduino IDE 1.6.8.
